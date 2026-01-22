@@ -17,7 +17,7 @@ Este poderisismo md describe **cada comando utilizado durante el desarrollo del 
 uname -a
 ```
 
-**Qué hace:**
+**Qué poronga hace:**
 Muestra información del sistema operativo, incluyendo el kernel, la arquitectura y la distribución.
 
 **Por qué se usa:**
@@ -31,11 +31,9 @@ Permite verificar que el entorno de ejecución corresponde a un sistema Linux ba
 gcc --version
 ```
 
-**Qué hace:**
+**Qué poronga hace:**
 Muestra la versión del compilador GNU C Compiler (GCC).
 
-**Por qué se usa:**
-Verifica que el compilador necesario para desarrollar aplicaciones en lenguaje C esté disponible en el sistema.
 
 ---
 
@@ -47,10 +45,10 @@ Verifica que el compilador necesario para desarrollar aplicaciones en lenguaje C
 mkdir parte1_multihilo
 ```
 
-**Qué hace:**
+**Qué poronga hace:**
 Crea un nuevo directorio en el sistema de archivos.
 
-**Por qué se usa:**
+**Parak:**
 Permite organizar el proyecto separando los archivos por partes, facilitando la gestión y documentación del trabajo.
 
 ---
@@ -61,10 +59,10 @@ Permite organizar el proyecto separando los archivos por partes, facilitando la 
 cd parte1_multihilo
 ```
 
-**Qué hace:**
+**Qué poronga hace:**
 Cambia el directorio de trabajo actual.
 
-**Por qué se usa:**
+**Parak:**
 Permite trabajar directamente dentro del directorio donde se encuentran los archivos fuente y ejecutables del proyecto.
 
 ---
@@ -75,10 +73,10 @@ Permite trabajar directamente dentro del directorio donde se encuentran los arch
 ls
 ```
 
-**Qué hace:**
+**Qué poronga hace:**
 Lista los archivos y directorios del directorio actual.
 
-**Por qué se usa:**
+**parak:**
 Permite verificar qué archivos existen, comprobar que los archivos fuente y ejecutables fueron creados correctamente y detectar errores de nombres o rutas.
 
 ---
@@ -91,12 +89,10 @@ Permite verificar qué archivos existen, comprobar que los archivos fuente y eje
 nano primos_secuencia1.c
 ```
 
-**Qué hace:**
+**Qué poronga hace:**
 Abre el editor de texto `nano` para crear o modificar archivos.
 
-**Por qué se usa:**
-Se utiliza para escribir el código fuente en lenguaje C de manera sencilla y directa desde la terminal.
-
+para el codigo fuente 
 ---
 
 ### Guardar y salir de `nano`
@@ -106,10 +102,7 @@ CTRL + O  → Guardar cambios
 ENTER     → Confirmar nombre del archivo  
 CTRL + X  → Salir del editor
 ```
-
-**Por qué se usa:**
-Permite almacenar el código fuente escrito y regresar a la consola para compilarlo o ejecutarlo.
-
+todo para almacenar jodido codigo 
 ---
 
 ## Compilación de programas
@@ -120,7 +113,7 @@ Permite almacenar el código fuente escrito y regresar a la consola para compila
 gcc primos_secuencia1.c -o primos_secuencias1
 ```
 
-**Qué hace:**
+
 Compila el archivo fuente en C y genera un archivo ejecutable.
 
 **Por qué se usa:**
