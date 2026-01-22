@@ -5,11 +5,6 @@
 
 # Proyecto de Sistemas Operativos en Red Hat Enterprise Linux
 
-**Multihilos, Planificación de Procesos, Clúster Simulado y E/S**
-
-Este proyecto fue desarrollado en **Red Hat Enterprise Linux** utilizando **Red Hat OpenShift Dev Spaces (Sandbox)**.
-No se requieren privilegios de superusuario ni suscripción activa.
-
 ---
 
 #  PARTE 1 — Aplicación Multihilo
