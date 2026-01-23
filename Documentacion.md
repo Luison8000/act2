@@ -1,4 +1,4 @@
-Aquí tienes el texto **sin emojis**, listo para **copiar y pegar** tal cual:
+
 
 ---
 
